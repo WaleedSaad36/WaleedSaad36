@@ -9,9 +9,7 @@
 
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Waleed+Saad+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=D79921&width=435&lines=hi+i+am+Waleed+Saad;An+ios+Software+Engineer" alt="Typing SVG" /></a>
 ### iOS Software Engineer 
 
 

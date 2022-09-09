@@ -25,7 +25,7 @@
 
 - I have 2 years of experience, especially in [FinTech - E-Commerce].
 - 🔭 I am Currently working on E.commerce Application with the technologies [UIKit - RXSwift - Clean Archtecture - MVVM].
-- 🌱 I am Currently learning  [SwiftUI - Combine].
+- 🌱 I am Currently learning  [SwiftUI - Combine - CoreML - AI - Vision Kit].
 - 💬 **Ask me about**: OOP, POP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 

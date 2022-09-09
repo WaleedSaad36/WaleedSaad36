@@ -9,9 +9,10 @@
 
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Waleed+Saad+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
 
-### iOS Software Engineer.
+### iOS Software Engineer 
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/waleed-saad-90331711a/)

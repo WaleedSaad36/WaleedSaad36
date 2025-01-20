@@ -10,7 +10,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=D79921&width=435&lines=hi+i+am+Waleed+Saad;An+ios+Software+Engineer" alt="Typing SVG" /></a>
-### iOS Software Engineer 
+### Senior iOS Engineer At MDI 
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/waleed-saad-90331711a/)
@@ -23,10 +23,9 @@
 
 **I speak Swift, and technology enthusiast. I Love developing mobile apps, especially the iOS**
 
-- I have 2 years of experience, especially in [FinTech - E-Commerce].
-- 🔭 I am Currently working on E.commerce Application with the technologies [UIKit - RXSwift - Clean Archtecture - MVVM - VIPER].
-- 🌱 I am Currently learning  [SwiftUI - Combine - CoreML - AI - Vision Kit].
-- 💬 **Ask me about**: OOP, POP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
+- I have 5 years of experience, especially in [FinTech - Digital Banking - E-Commerce].
+- 🔭 I am Currently working on E.commerce Application with the technologies [SwitUI - Combine - Clean Archtecture - MVVM - VIPER - Unit Testing].
+- 💬 **Ask me about**: OOP, POP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD, XGuard .
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
 <br />
@@ -47,7 +46,6 @@
 [<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][adobeXd_website]
 [<img align="left" alt="Figma" width="25px" src="Images/Figma-Logo.png" />][figma_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][zeplin_website]
-
 <br /> <br /> 
 
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][githubActions_website]
